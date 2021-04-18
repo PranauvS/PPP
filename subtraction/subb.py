@@ -3,3 +3,4 @@ def do_subtraction:
     b=3
     print(a-b)
 do_subtraction()
+print("viewed")
